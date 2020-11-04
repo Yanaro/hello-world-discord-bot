@@ -8,7 +8,8 @@
     "url": "git+https://github.com/julianYaman/hello-world-discord-bot.git"
   },
   "scripts": {
-    "test": "node main.js"
+    "test": "node main.js",
+    "start": "node main.js"
   },
   "keywords": [
     "Discord.js",
